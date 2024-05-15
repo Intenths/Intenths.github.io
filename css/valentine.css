@@ -37,6 +37,8 @@ img {
   border: 2px solid #ff9494;
   box-shadow: 1px 1px 2px #ffe3e1;
 }
-.container{
-position: relative;
+.container img, .container audio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
